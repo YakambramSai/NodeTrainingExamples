@@ -1,0 +1,21 @@
+http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314
+http://www.nodebeginner.org/
+http://nodeguide.com/beginner.html
+http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+https://mazira.com/blog/introduction-load-balancing-nodejs
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDEQFjAC&url=http%3A%2F%2Fblog.modulus.io%2Fabsolute-beginners-guide-to-nodejs&ei=0BgPVZePH4jguQTGy4CYCA&usg=AFQjCNECXW4t8zWNEtRo3Wwaw1Z8fX8UXg&bvm=bv.88528373,d.c2E&cad=rja
+http://nodeguide.com/object_oriented_programming.html
+
+http://stackoverflow.com/questions/12616153/what-is-express-js
+
+
+https://docs.nodejitsu.com/articles/advanced/streams/how-to-use-fs-create-read-stream
+http://elegantcode.com/2011/04/06/taking-baby-steps-with-node-js-pumping-data-between-streams/
+tutorial video:
+https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
+
+
+https://www.pluralsight.com/paths/node-js?aid=7010a000002BWq6AAG&promo=&oid=&utm_source=google&utm_medium=ppc&utm_campaign=APAC_Dynamic&utm_content=&utm_term=&gclid=CjwKEAjw4vzKBRCt9Zmg8f2blgESJADN5fDgZg6qSPBx12w-zJ_g4ve3CmxntVie15FBf0dUqxI-nBoCZmPw_wcB
+https://codeforgeek.com/2014/06/express-nodejs-tutorial/
+https://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941
+https://www.hacksparrow.com/node-js-eventemitter-tutorial.html
